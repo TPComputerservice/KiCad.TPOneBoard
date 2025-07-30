@@ -665,7 +665,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "C:/Program Files/KiCad/6.0/",
-      "plot": "../Gerber/DXF/",
+      "plot": "Z:/Hobby/IoT/KiCad Projekte/TP_One_Board/Gerber",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
