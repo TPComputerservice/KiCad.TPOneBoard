@@ -48,7 +48,7 @@
       "drc_warnings",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_0ffffffd_ffff7773",
+    "visible_layers": "00000000_00000000_0ffffffd_dfffffff",
     "zone_display_mode": 1
   },
   "git": {
