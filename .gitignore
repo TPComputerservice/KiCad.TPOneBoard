@@ -3,6 +3,7 @@
 *.log
 *.net
 *.xml
+*.zip
 *.cache/
 fp-info-cache
 sym-lib-table-bak
